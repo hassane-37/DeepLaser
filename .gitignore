@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environnement virtuel
+venv/
+.env/
+.env*/
+
+# Données / modèles
+*.parquet
+*.csv
+*.h5
+*.pkl
+*.ckpt
+*.pt
+*.pth
+
+# Système
+.DS_Store
+Thumbs.db
